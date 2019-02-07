@@ -48,3 +48,14 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.header {
+  background-color:#bbbbbb;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+.ajustar{
+  margin: 20px;
+  float: none;
+}
